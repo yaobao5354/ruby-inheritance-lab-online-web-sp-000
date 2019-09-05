@@ -23,3 +23,5 @@ jim = Student.new
 jim.first_name = "jim"
 jim.last_name = "jones"
 jim.learn(some_knowledge)
+
+steve.learn(some_knowledge)
