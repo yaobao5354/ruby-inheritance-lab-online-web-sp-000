@@ -25,3 +25,4 @@ jim.last_name = "jones"
 jim.learn(some_knowledge)
 
 steve.learn(some_knowledge)
+puts "#{steve.knowledge}"
